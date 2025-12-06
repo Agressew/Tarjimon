@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+deep-translator
+SpeechRecognition
+pydub
+imageio-ffmpeg
